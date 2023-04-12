@@ -1,0 +1,10 @@
+Welcome to my Fish Eats Coins Game Project, developed during my 3rd semester in Assembly Language  at FAST NUCES. This project is a fun and addictive game where you control a fish that swims
+ around and eats coins to score points.
+
+In this game, you control a colorful fish that swims around in an underwater environment. The fish can move in any direction and must collect coins to increase
+ its score.
+
+This project was developed using [Assembly Language]. It demonstrates my proficiency in [Core Programming], including [Assembly in 3rd semester]. 
+The project code is available for viewing and can be downloaded and modified as needed.
+
+Thank you for taking the time to check out my Fish Eats Coins Game Project!
